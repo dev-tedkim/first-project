@@ -1,6 +1,4 @@
-
-master 첫번째줄
-master 두번째줄
-
-
+test브랜치 첫번째줄
+test 브랜치 두번째줄
+test 3번째줄
 
