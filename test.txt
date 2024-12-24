@@ -1,2 +1,4 @@
+console.log(hello);
 9시41분
 새로운 코드
+
